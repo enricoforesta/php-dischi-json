@@ -1,0 +1,32 @@
+[
+    {
+        "name": "The Eminem Show",
+        "artist": "Eminem",
+        "years": "2002"
+    },
+    {
+        "name": "The Blueprint",
+        "artist": "Jay-Z",
+        "years": "2001"
+    },
+    {
+        "name": "All Eyez on Me",
+        "artist": "Tupac",
+        "years": "1996"
+    },
+    {
+        "name": "Life After Death",
+        "artist": "Notorious B.I.G.",
+        "years": "1997"
+    },
+    {
+        "name": "Illmatic",
+        "artist": "Nas",
+        "years": "1994"
+    },
+    {
+        "name": "The Chronic",
+        "artist": "Dr. Dre",
+        "years": "1992"
+    }
+]

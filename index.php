@@ -12,7 +12,13 @@
 
 <body>
     <div id="app">
-        <h1>ciao</h1>
+        <ul>
+            <li v-for="cd in cds">
+                <h3> {{ cd.name}}</h3>
+                <span>{{cd.artist}}</span>
+                <h5>{{cd.years}}</h5>
+            </li>
+        </ul>
     </div>
 
 
