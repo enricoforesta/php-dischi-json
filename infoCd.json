@@ -1,31 +1,37 @@
 [
     {
         "name": "The Eminem Show",
+        "img": "https://m.media-amazon.com/images/I/71n0xmxpw7L._UF1000,1000_QL80_.jpg",
         "artist": "Eminem",
         "years": "2002"
     },
     {
         "name": "The Blueprint",
+        "img": "https://m.media-amazon.com/images/I/81SnS+LoVoL._UF894,1000_QL80_.jpg",
         "artist": "Jay-Z",
         "years": "2001"
     },
     {
         "name": "All Eyez on Me",
+        "img": "https://m.media-amazon.com/images/I/61snhqynKLL._UF1000,1000_QL80_.jpg",
         "artist": "Tupac",
         "years": "1996"
     },
     {
         "name": "Life After Death",
+        "img": "https://m.media-amazon.com/images/I/A12Zf24D5AL._AC_SL1500_.jpg",
         "artist": "Notorious B.I.G.",
         "years": "1997"
     },
     {
         "name": "Illmatic",
+        "img": "https://m.media-amazon.com/images/I/81Fw-VI17eL._UF1000,1000_QL80_.jpg",
         "artist": "Nas",
         "years": "1994"
     },
     {
         "name": "The Chronic",
+        "img": "https://m.media-amazon.com/images/I/71mlUmU1TVL._UF1000,1000_QL80_.jpg",
         "artist": "Dr. Dre",
         "years": "1992"
     }

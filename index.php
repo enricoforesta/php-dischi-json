@@ -12,13 +12,24 @@
 
 <body>
     <div id="app">
-        <ul>
-            <li v-for="cd in cds">
-                <h3> {{ cd.name}}</h3>
-                <span>{{cd.artist}}</span>
-                <h5>{{cd.years}}</h5>
-            </li>
-        </ul>
+        <header>
+            <h1>Top {{cds.length}} Brani</h1>
+        </header>
+        <main>
+            <ul>
+                <li v-for="cd in cds">
+                    <div class="img">
+                        <img :src="cd.img" :alt="cd.name">
+                    </div>
+                    <div>
+                        <h3> {{ cd.name}}</h3>
+                        <span>{{cd.artist}}</span>
+                        <h5>{{cd.years}}</h5>
+                    </div>
+                </li>
+            </ul>
+        </main>
+
     </div>
 
 
