@@ -5,6 +5,7 @@ createApp({
     data() {
         return {
             cds: [],
+            currentcd: '',
         };
     },
     methods: {
@@ -12,6 +13,11 @@ createApp({
         getCds() {
             axios.get('server.php').then((response) => {
                 this.cds = response.data;
+            })
+        },
+        getDetails(index) {
+            axios.get('server.php', { params: { index } }).then((response) => {
+                this.currentcd = response.data
             })
         }
     },

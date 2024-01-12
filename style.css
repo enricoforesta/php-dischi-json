@@ -48,3 +48,9 @@ div.img {
     height: 450px;
     margin: 0 auto;
 }
+
+.result {
+    line-height: 1.5;
+    margin: 100px;
+    font-size: 30px;
+}

@@ -3,36 +3,42 @@
         "name": "The Eminem Show",
         "img": "https://m.media-amazon.com/images/I/71n0xmxpw7L._UF1000,1000_QL80_.jpg",
         "artist": "Eminem",
-        "years": "2002"
+        "years": "2002",
+        "info": "Questo è il quarto album in studio del rapper americano Eminem. L’album ha visto Eminem assumere un ruolo di produzione sostanzialmente più predominante; la maggior parte di esso è stata autoprodotta"
     },
     {
         "name": "The Blueprint",
         "img": "https://m.media-amazon.com/images/I/81SnS+LoVoL._UF894,1000_QL80_.jpg",
         "artist": "Jay-Z",
-        "years": "2001"
+        "years": "2001",
+        "info": "È il sesto album in studio del rapper americano Jay-Z, pubblicato il 11 settembre 2001. A differenza dei precedenti prodotti del rapper, The Blueprint è composto da produzioni e campioni basati sulla soul music degli anni settanta"
     },
     {
         "name": "All Eyez on Me",
         "img": "https://m.media-amazon.com/images/I/61snhqynKLL._UF1000,1000_QL80_.jpg",
         "artist": "Tupac",
-        "years": "1996"
+        "years": "1996",
+        "info": " È il quarto album in studio del rapper americano 2Pac e l’ultimo ad essere pubblicato durante la sua vita. L’album presenta apparizioni di ospiti come Dr. Dre, Snoop Doggy Dogg, Redman, Method Man, Nate Dogg, Kurupt, Daz Dillinger, E-40, K-Ci & JoJo, e gli Outlawz, tra gli altri"
     },
     {
         "name": "Life After Death",
         "img": "https://m.media-amazon.com/images/I/A12Zf24D5AL._AC_SL1500_.jpg",
         "artist": "Notorious B.I.G.",
-        "years": "1997"
+        "years": "1997",
+        "info": "Questo è l’ambizioso album doppio di diamante del secondo album di Notorious B.I.G., pubblicato due settimane dopo il suo omicidio. L’album ha documentato il capitolo finale straordinario e alla fine tragico nella vita di una stella ascendente"
     },
     {
         "name": "Illmatic",
         "img": "https://m.media-amazon.com/images/I/81Fw-VI17eL._UF1000,1000_QL80_.jpg",
         "artist": "Nas",
-        "years": "1994"
+        "years": "1994",
+        "info": "È l’album di debutto del rapper americano Nas. Dopo aver firmato con l’etichetta con l’aiuto di MC Serch, Nas ha registrato l’album nel 1992 e 1993 a New York City. L’album è ampiamente considerato uno dei più grandi album hip hop di tutti i tempi"
     },
     {
         "name": "The Chronic",
         "img": "https://m.media-amazon.com/images/I/71mlUmU1TVL._UF1000,1000_QL80_.jpg",
         "artist": "Dr. Dre",
-        "years": "1992"
+        "years": "1992",
+        "info": "È il primo album in studio del produttore e rapper americano di hip hop Dr. Dre. È stato pubblicato il 15 dicembre 1992 dalla sua etichetta discografica Death Row Records e distribuito da Interscope Records"
     }
 ]
